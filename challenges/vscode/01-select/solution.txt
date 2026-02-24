@@ -1,1 +1,1 @@
-MOUSE+HOLD
+Alt+←
